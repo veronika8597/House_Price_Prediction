@@ -3,7 +3,7 @@
 
 ### Hi! We are Veronika & Osnat
 
-We made a machine learning project to predict  the sell price of an asset
+We made a machine learning project on the Realtor.com website to predict  the sell price of an asset
 in the New York state.
 
 ### Development
@@ -20,25 +20,14 @@ and NumPy <img src="https://numpy.org/images/logo.svg" width="60">
 to perform the scraping
 
 
-
+### Machine learning
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-# stam
-##stam
+from sklearn.linear_model import LinearRegression #Linear regression algorithm
+from sklearn.linear_model import Lasso #Lasso algorithm
+from sklearn.linear_model import BayesianRidge #Bayesian algorithm
+from sklearn.metrics import r2_score
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 #### Thank you, hope you enjoy the project as we did :)
