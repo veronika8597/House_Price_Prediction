@@ -22,12 +22,10 @@ to perform the scraping
 
 ### Machine learning
 ```markdown
-
 from sklearn.linear_model import LinearRegression #Linear regression algorithm
 from sklearn.linear_model import Lasso #Lasso algorithm
 from sklearn.linear_model import BayesianRidge #Bayesian algorithm
 from sklearn.metrics import r2_score
-
 ```
 
 #### Thank you, hope you enjoy the project as we did :)
