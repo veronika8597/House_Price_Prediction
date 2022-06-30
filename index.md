@@ -1,12 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to our project
 
-You can use the [editor on GitHub](https://github.com/veronika8597/Machine_Learning_HouseHunter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hi! We are Veronika & Osnat
 
-### Markdown
+We made a machine learning project to predict  the sell price of an asset
+in the New York state.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Development
+
+#### Programming language: 
+Python <img src="https://user-images.githubusercontent.com/67739639/159704982-a1efa5af-b572-4a59-9996-8edb943c3639.png" width="40">
+
+#### Libraries: 
+Jason <img src="https://miro.medium.com/max/1400/1*7I28RUYwZPeJ52uZrVtMMQ.png" width="60">
+, Pandas <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80">
+, Requests <img src="https://cdn-0.securityonline.info/wp-content/uploads/2018/06/python-request.jpeg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1" width="70">
+and NumPy <img src="https://numpy.org/images/logo.svg" width="60">
+
+to perform the scraping
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,12 +41,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veronika8597/Machine_Learning_HouseHunter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Thank you, hope you enjoy the project as we did :)
