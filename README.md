@@ -32,7 +32,7 @@ The trained models are evaluated using evaluation metrics such as mean squared e
 #### 6.Deployment: 
 Once a satisfactory model was developed, it was deployed in a production environment. The model was shown in the Jupiter Notbook for real-time predictions of the assets. 
 
-
+### Conclusion:
 In conclusion, the House Price Prediction Data Science project aimed to develop a machine learning model that accurately predicts house prices based on various features. Three regression models, namely Linear Regression, Lasso Regression, and Bayesian Ridge Regression, were trained and evaluated after preprocessing the data. The model with the best price prediction results was selected for further deployment. By leveraging the power of data science and machine learning, this project provides valuable insights and tools to assist individuals, real estate agents, and investors in making informed decisions in the dynamic housing market.
 
 
