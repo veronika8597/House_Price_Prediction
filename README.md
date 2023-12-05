@@ -5,13 +5,20 @@ This project focuses on predicting house prices in the state of New York by util
 
 ## Table of Contents
 Installation
-Usage
-Data Collection
-Data Cleaning
-Exploratory Data Analysis
-Machine Learning Models
-Results
-Contributing
+
+1.  Usage
+
+2.  Data Collection
+
+3.  Data Cleaning
+
+4.  Exploratory Data Analysis
+
+5.  Machine Learning Models
+
+6.  Results
+
+7.  Contributing
 
 
 ## Installation
