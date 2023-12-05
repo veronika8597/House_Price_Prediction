@@ -12,8 +12,9 @@ Exploratory Data Analysis
 Machine Learning Models
 Results
 Contributing
-License
-Installation
+
+
+## Installation
 To get started with the project, follow these steps:
 
 ### Clone the repository:
@@ -25,7 +26,7 @@ To get started with the project, follow these steps:
 ## Usage
 ### Data Collection - ```Realtor_NewYork_Scraping.ipynb```
 The dataset was created by crawling the "Realtor" website, focusing on properties in the state of New York. 
-Afterwards the raw data was saved in the RealEstateNeyYork.csv file.
+Afterward, the raw data was saved in the RealEstateNeyYork.csv file.
 
 ### Data Cleaning - ```Cleaning_Data.ipynb```
 The raw data obtained was meticulously cleaned to ensure accurate and reliable results in subsequent analyses. 
