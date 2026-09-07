@@ -61,8 +61,3 @@ The Lasso model demonstrated superior predictive accuracy among our models. Key 
 
 *  A comparison of True Prices (average: $663,308.42) and Predicted Prices (average: $662,135.04) revealed a close alignment.
 
-## Contributing
-Feel free to contribute by opening issues, proposing new features, or providing suggestions. We welcome your input!
-
-Project Link: ```House Price Prediction - GitHub```
-
